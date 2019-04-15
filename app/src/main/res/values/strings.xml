@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CalX</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="camera">Camera</string>
+    <string name="calt">Tracker</string>
+    <string name="uprof">Profile</string>
+    <string name="nfeed">Feed</string>
+    <string name="header">CalX</string>
+    <string name="savetxt">Save</string>
+
+    <string-array name="diet_cat">
+        <item>Anything</item>
+        <item>Vegetarian</item>
+        <item>Eggetarian</item>
+    </string-array>
+
+    <string-array name="bodyfat_cat">
+        <item>Low (under 14%)</item>
+        <item>Medium (14% to 22%)</item>
+        <item>High (above 22%)</item>
+    </string-array>
+
+    <string-array name="exlevels_cat">
+        <item>Sedentary</item>
+        <item>Lightly Active</item>
+        <item>Moderately Active</item>
+        <item>Very Active</item>
+        <item>Extremely Active</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="restaurant_names">
+        <item>Select Restaurant</item>
+        <item>McDonalds</item>
+        <item>Subway</item>
+        <item>Starbucks</item>
+        <item>KFC</item>
+        <item>Pizza Hut</item>
+        <item>Wendys</item>
+        <item>Taco Bell</item>
+        <item>Applebees</item>
+        <item>Tim Hortons</item>
+        <item>A&amp;W</item>
+    </string-array>
+</resources>
